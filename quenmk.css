@@ -1,0 +1,22 @@
+.doimatkhau{
+    width: 600px;
+    height: 400px;
+    background-color:;
+    border: 1px solid grey;
+    border-radius:10px;
+    margin:0 auto;
+}
+.doimatkhau{
+    padding-top: 32px;
+    padding-right: 8px;
+    padding-left: 28px;
+}
+.form-doi {
+    height: 40px;
+}
+.from-submit{
+    width: 70px;
+    height: 39px;
+    background-color: #7fc4ffe0;
+    border-radius:33px;
+}
